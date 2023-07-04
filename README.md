@@ -12,6 +12,7 @@ Exploratory data analysis (EDA for short) is what data analysts do with large se
 - Ask & answer questions about the data
 - Perform exploratory analysis & visualization
 - Summarize your inferences & write a conclusion
+
 Project Link: [Exploratory Data Analysis of Google Play Store Apps](https://jovian.com/saurav9048/eda-project-google-play-store-apps)
 
 Medium Blog: [Exploratory Data Analysis of Google Play Store Apps](https://medium.com/@saurav9048/exploratory-data-analysis-of-google-play-store-apps-3070067991fb)
