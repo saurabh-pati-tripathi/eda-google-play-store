@@ -1,6 +1,7 @@
 # Exploratory Data Analysis Project on Google Play Store Apps
 Exploratory data analysis (EDA for short) is what data analysts do with large sets of data, looking for patterns and summarizing the dataset’s main characteristics beyond what they learn from modeling and hypothesis testing. EDA is a philosophy that allows data analysts to approach a database without assumptions. When a data analyst employs EDA, it’s like they’re asking the data to tell them what they don’t know.
 
+**In this project:**
 - Cleaned data for 2.3 million+ rows containing 24 columns and analyzed data using Pandas
 - Created visualizations (scatter plots, Pie charts, Treemap, etc.) using Seaborn & Plotly
 - Discovered that category and the size of apps are the most important factors for getting the most installations.
